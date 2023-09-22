@@ -1,1 +1,2 @@
-# EDUVERSE
+# Eduverse
+A learning platform .
